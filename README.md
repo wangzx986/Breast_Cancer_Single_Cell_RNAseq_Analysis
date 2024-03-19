@@ -11,6 +11,7 @@ Our datasets originate from the Pan-cancer Blueprint datasets (http://blueprint.
 Methods
 
 Single cell RNA sequence data preprocessing
+
 We analyzed single-cell RNA sequence data from 44,024 cells isolated from primary breast cancer tissue, profiling a total of 33,694 genes using scanpy 1.6.1, a scalable toolkit for single-cell gene expression analysis. Quality control procedures were employed to filter out lowly expressed genes and low-quality cells. Specifically, genes detected in fewer than 3 cells were removed, and cells expressing fewer than 200 genes were filtered out. Additionally, cells with excessive expression of mitochondrial genes or total counts were excluded. Remarkably, our datasets exhibited high quality, with no cells filtered out, resulting in the retention of 26,040 genes.
 
 Determination of major cell types 
