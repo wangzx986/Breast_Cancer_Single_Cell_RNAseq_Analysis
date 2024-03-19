@@ -20,7 +20,7 @@ Gene expression difference comparisons
 To identify differential gene expression across the four subtypes of breast cancer, highly expressed genes within each subgroup were identified based on previous clustering within each cell type. These genes were then selected and visualized in a heatmap to compare expression patterns among the four breast cancer types.
 
 Results 
-Please find results and figures from the results folder. 
+Please find results and figures under the results folder. 
 
 
 
